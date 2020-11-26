@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\CollectionsInCSharp\CollectionsInCSharp\bin\Debug\CollectionsInCSharp.exe.config
+C:\Users\hp\source\repos\CollectionsInCSharp\CollectionsInCSharp\bin\Debug\CollectionsInCSharp.exe
+C:\Users\hp\source\repos\CollectionsInCSharp\CollectionsInCSharp\bin\Debug\CollectionsInCSharp.pdb
+C:\Users\hp\source\repos\CollectionsInCSharp\CollectionsInCSharp\obj\Debug\ArrayListDemo.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CollectionsInCSharp\CollectionsInCSharp\obj\Debug\ArrayListDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CollectionsInCSharp\CollectionsInCSharp\obj\Debug\CollectionsInCSharp.exe
+C:\Users\hp\source\repos\CollectionsInCSharp\CollectionsInCSharp\obj\Debug\CollectionsInCSharp.pdb

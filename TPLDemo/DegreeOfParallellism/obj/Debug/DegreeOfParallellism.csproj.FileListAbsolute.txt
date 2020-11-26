@@ -1,0 +1,6 @@
+D:\C#\Rama\TPLDemo\DegreeOfParallellism\bin\Debug\DegreeOfParallellism.exe.config
+D:\C#\Rama\TPLDemo\DegreeOfParallellism\bin\Debug\DegreeOfParallellism.exe
+D:\C#\Rama\TPLDemo\DegreeOfParallellism\bin\Debug\DegreeOfParallellism.pdb
+D:\C#\Rama\TPLDemo\DegreeOfParallellism\obj\Debug\DegreeOfParallellism.csproj.CoreCompileInputs.cache
+D:\C#\Rama\TPLDemo\DegreeOfParallellism\obj\Debug\DegreeOfParallellism.exe
+D:\C#\Rama\TPLDemo\DegreeOfParallellism\obj\Debug\DegreeOfParallellism.pdb

@@ -1,0 +1,7 @@
+D:\C#\SHITAL PATIL\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csprojAssemblyReference.cache
+D:\C#\SHITAL PATIL\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+D:\C#\SHITAL PATIL\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe.config
+D:\C#\SHITAL PATIL\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe
+D:\C#\SHITAL PATIL\ExceptionHandlingDemo\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.pdb
+D:\C#\SHITAL PATIL\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.exe
+D:\C#\SHITAL PATIL\ExceptionHandlingDemo\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.pdb

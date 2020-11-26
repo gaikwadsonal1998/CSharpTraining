@@ -1,0 +1,9 @@
+D:\C#\Rama\ConsoleApp_Serialize\ConsoleApp_Serialize\bin\Debug\ConsoleApp_Serialize.exe.config
+D:\C#\Rama\ConsoleApp_Serialize\ConsoleApp_Serialize\bin\Debug\ConsoleApp_Serialize.exe
+D:\C#\Rama\ConsoleApp_Serialize\ConsoleApp_Serialize\bin\Debug\ConsoleApp_Serialize.pdb
+D:\C#\Rama\ConsoleApp_Serialize\ConsoleApp_Serialize\obj\Debug\ConsoleApp_Serialize.csprojAssemblyReference.cache
+D:\C#\Rama\ConsoleApp_Serialize\ConsoleApp_Serialize\obj\Debug\ConsoleApp_Serialize.csproj.CoreCompileInputs.cache
+D:\C#\Rama\ConsoleApp_Serialize\ConsoleApp_Serialize\obj\Debug\ConsoleApp_Serialize.exe
+D:\C#\Rama\ConsoleApp_Serialize\ConsoleApp_Serialize\obj\Debug\ConsoleApp_Serialize.pdb
+D:\C#\Rama\ConsoleApp_Serialize\ConsoleApp_Serialize\bin\Debug\Json.Net.dll
+D:\C#\Rama\ConsoleApp_Serialize\ConsoleApp_Serialize\obj\Debug\ConsoleApp_Serialize.csproj.CopyComplete

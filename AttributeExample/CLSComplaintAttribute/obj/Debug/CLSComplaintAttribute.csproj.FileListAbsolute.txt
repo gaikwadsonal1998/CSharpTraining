@@ -1,0 +1,2 @@
+D:\C#\Rama\AttributeExample\CLSComplaintAttribute\obj\Debug\CLSComplaintAttribute.csprojAssemblyReference.cache
+D:\C#\Rama\AttributeExample\CLSComplaintAttribute\obj\Debug\CLSComplaintAttribute.csproj.CoreCompileInputs.cache

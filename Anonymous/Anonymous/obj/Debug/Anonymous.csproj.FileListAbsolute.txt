@@ -1,0 +1,7 @@
+D:\C#\SHITAL PATIL\Anonymous\Anonymous\bin\Debug\Anonymous.exe.config
+D:\C#\SHITAL PATIL\Anonymous\Anonymous\bin\Debug\Anonymous.exe
+D:\C#\SHITAL PATIL\Anonymous\Anonymous\bin\Debug\Anonymous.pdb
+D:\C#\SHITAL PATIL\Anonymous\Anonymous\obj\Debug\Anonymous.csprojAssemblyReference.cache
+D:\C#\SHITAL PATIL\Anonymous\Anonymous\obj\Debug\Anonymous.csproj.CoreCompileInputs.cache
+D:\C#\SHITAL PATIL\Anonymous\Anonymous\obj\Debug\Anonymous.exe
+D:\C#\SHITAL PATIL\Anonymous\Anonymous\obj\Debug\Anonymous.pdb

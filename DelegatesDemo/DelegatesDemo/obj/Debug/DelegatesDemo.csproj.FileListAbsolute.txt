@@ -1,0 +1,7 @@
+D:\C#\SHITAL PATIL\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe.config
+D:\C#\SHITAL PATIL\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.exe
+D:\C#\SHITAL PATIL\DelegatesDemo\DelegatesDemo\bin\Debug\DelegatesDemo.pdb
+D:\C#\SHITAL PATIL\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.csprojAssemblyReference.cache
+D:\C#\SHITAL PATIL\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.csproj.CoreCompileInputs.cache
+D:\C#\SHITAL PATIL\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.exe
+D:\C#\SHITAL PATIL\DelegatesDemo\DelegatesDemo\obj\Debug\DelegatesDemo.pdb

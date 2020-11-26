@@ -1,0 +1,7 @@
+D:\C#\Rama\ConsoleApp_outwithcSharp7.0\ConsoleApp_outwithcSharp7.0\bin\Debug\ConsoleApp_outwithcSharp7.0.exe.config
+D:\C#\Rama\ConsoleApp_outwithcSharp7.0\ConsoleApp_outwithcSharp7.0\bin\Debug\ConsoleApp_outwithcSharp7.0.exe
+D:\C#\Rama\ConsoleApp_outwithcSharp7.0\ConsoleApp_outwithcSharp7.0\bin\Debug\ConsoleApp_outwithcSharp7.0.pdb
+D:\C#\Rama\ConsoleApp_outwithcSharp7.0\ConsoleApp_outwithcSharp7.0\obj\Debug\ConsoleApp_outwithcSharp7.0.csprojAssemblyReference.cache
+D:\C#\Rama\ConsoleApp_outwithcSharp7.0\ConsoleApp_outwithcSharp7.0\obj\Debug\ConsoleApp_outwithcSharp7.0.csproj.CoreCompileInputs.cache
+D:\C#\Rama\ConsoleApp_outwithcSharp7.0\ConsoleApp_outwithcSharp7.0\obj\Debug\ConsoleApp_outwithcSharp7.0.exe
+D:\C#\Rama\ConsoleApp_outwithcSharp7.0\ConsoleApp_outwithcSharp7.0\obj\Debug\ConsoleApp_outwithcSharp7.0.pdb

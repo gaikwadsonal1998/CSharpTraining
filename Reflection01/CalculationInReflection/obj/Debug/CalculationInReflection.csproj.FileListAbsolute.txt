@@ -1,0 +1,6 @@
+D:\C#\Rama\Reflection01\CalculationInReflection\bin\Debug\CalculationInReflection.exe.config
+D:\C#\Rama\Reflection01\CalculationInReflection\bin\Debug\CalculationInReflection.exe
+D:\C#\Rama\Reflection01\CalculationInReflection\bin\Debug\CalculationInReflection.pdb
+D:\C#\Rama\Reflection01\CalculationInReflection\obj\Debug\CalculationInReflection.csproj.CoreCompileInputs.cache
+D:\C#\Rama\Reflection01\CalculationInReflection\obj\Debug\CalculationInReflection.exe
+D:\C#\Rama\Reflection01\CalculationInReflection\obj\Debug\CalculationInReflection.pdb

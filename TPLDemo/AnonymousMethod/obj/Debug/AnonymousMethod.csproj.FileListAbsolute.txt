@@ -1,0 +1,7 @@
+D:\C#\Rama\TPLDemo\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+D:\C#\Rama\TPLDemo\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+D:\C#\Rama\TPLDemo\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+D:\C#\Rama\TPLDemo\AnonymousMethod\obj\Debug\AnonymousMethod.csprojAssemblyReference.cache
+D:\C#\Rama\TPLDemo\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.CoreCompileInputs.cache
+D:\C#\Rama\TPLDemo\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+D:\C#\Rama\TPLDemo\AnonymousMethod\obj\Debug\AnonymousMethod.pdb

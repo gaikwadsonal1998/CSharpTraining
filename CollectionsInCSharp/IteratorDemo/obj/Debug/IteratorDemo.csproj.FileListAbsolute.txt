@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\CollectionsInCSharp\IteratorDemo\bin\Debug\IteratorDemo.exe.config
+C:\Users\hp\source\repos\CollectionsInCSharp\IteratorDemo\bin\Debug\IteratorDemo.exe
+C:\Users\hp\source\repos\CollectionsInCSharp\IteratorDemo\bin\Debug\IteratorDemo.pdb
+C:\Users\hp\source\repos\CollectionsInCSharp\IteratorDemo\obj\Debug\IteratorDemo.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CollectionsInCSharp\IteratorDemo\obj\Debug\IteratorDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CollectionsInCSharp\IteratorDemo\obj\Debug\IteratorDemo.exe
+C:\Users\hp\source\repos\CollectionsInCSharp\IteratorDemo\obj\Debug\IteratorDemo.pdb

@@ -1,0 +1,6 @@
+D:\C#\Rama\TPLDemo\DemoBySir\bin\Debug\DemoBySir.exe.config
+D:\C#\Rama\TPLDemo\DemoBySir\bin\Debug\DemoBySir.exe
+D:\C#\Rama\TPLDemo\DemoBySir\bin\Debug\DemoBySir.pdb
+D:\C#\Rama\TPLDemo\DemoBySir\obj\Debug\DemoBySir.csproj.CoreCompileInputs.cache
+D:\C#\Rama\TPLDemo\DemoBySir\obj\Debug\DemoBySir.exe
+D:\C#\Rama\TPLDemo\DemoBySir\obj\Debug\DemoBySir.pdb

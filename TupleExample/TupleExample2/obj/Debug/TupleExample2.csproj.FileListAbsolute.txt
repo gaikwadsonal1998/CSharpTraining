@@ -1,0 +1,7 @@
+D:\C#\Rama\TupleExample\TupleExample2\bin\Debug\TupleExample2.exe.config
+D:\C#\Rama\TupleExample\TupleExample2\bin\Debug\TupleExample2.exe
+D:\C#\Rama\TupleExample\TupleExample2\bin\Debug\TupleExample2.pdb
+D:\C#\Rama\TupleExample\TupleExample2\obj\Debug\TupleExample2.csprojAssemblyReference.cache
+D:\C#\Rama\TupleExample\TupleExample2\obj\Debug\TupleExample2.csproj.CoreCompileInputs.cache
+D:\C#\Rama\TupleExample\TupleExample2\obj\Debug\TupleExample2.exe
+D:\C#\Rama\TupleExample\TupleExample2\obj\Debug\TupleExample2.pdb

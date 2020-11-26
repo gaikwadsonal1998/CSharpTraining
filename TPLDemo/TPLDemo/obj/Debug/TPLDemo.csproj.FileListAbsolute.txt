@@ -1,0 +1,7 @@
+D:\C#\Rama\TPLDemo\TPLDemo\bin\Debug\TPLDemo.exe.config
+D:\C#\Rama\TPLDemo\TPLDemo\bin\Debug\TPLDemo.exe
+D:\C#\Rama\TPLDemo\TPLDemo\bin\Debug\TPLDemo.pdb
+D:\C#\Rama\TPLDemo\TPLDemo\obj\Debug\TPLDemo.csprojAssemblyReference.cache
+D:\C#\Rama\TPLDemo\TPLDemo\obj\Debug\TPLDemo.csproj.CoreCompileInputs.cache
+D:\C#\Rama\TPLDemo\TPLDemo\obj\Debug\TPLDemo.exe
+D:\C#\Rama\TPLDemo\TPLDemo\obj\Debug\TPLDemo.pdb

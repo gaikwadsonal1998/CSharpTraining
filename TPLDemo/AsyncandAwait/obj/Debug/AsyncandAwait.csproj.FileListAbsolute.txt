@@ -1,0 +1,6 @@
+D:\C#\Rama\TPLDemo\AsyncandAwait\bin\Debug\AsyncandAwait.exe.config
+D:\C#\Rama\TPLDemo\AsyncandAwait\bin\Debug\AsyncandAwait.exe
+D:\C#\Rama\TPLDemo\AsyncandAwait\bin\Debug\AsyncandAwait.pdb
+D:\C#\Rama\TPLDemo\AsyncandAwait\obj\Debug\AsyncandAwait.csproj.CoreCompileInputs.cache
+D:\C#\Rama\TPLDemo\AsyncandAwait\obj\Debug\AsyncandAwait.exe
+D:\C#\Rama\TPLDemo\AsyncandAwait\obj\Debug\AsyncandAwait.pdb

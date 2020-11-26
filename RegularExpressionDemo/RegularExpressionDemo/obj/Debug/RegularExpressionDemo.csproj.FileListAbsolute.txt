@@ -1,0 +1,7 @@
+D:\C#\SHITAL PATIL\RegularExpressionDemo\RegularExpressionDemo\bin\Debug\RegularExpressionDemo.exe.config
+D:\C#\SHITAL PATIL\RegularExpressionDemo\RegularExpressionDemo\bin\Debug\RegularExpressionDemo.exe
+D:\C#\SHITAL PATIL\RegularExpressionDemo\RegularExpressionDemo\bin\Debug\RegularExpressionDemo.pdb
+D:\C#\SHITAL PATIL\RegularExpressionDemo\RegularExpressionDemo\obj\Debug\RegularExpressionDemo.csprojAssemblyReference.cache
+D:\C#\SHITAL PATIL\RegularExpressionDemo\RegularExpressionDemo\obj\Debug\RegularExpressionDemo.csproj.CoreCompileInputs.cache
+D:\C#\SHITAL PATIL\RegularExpressionDemo\RegularExpressionDemo\obj\Debug\RegularExpressionDemo.exe
+D:\C#\SHITAL PATIL\RegularExpressionDemo\RegularExpressionDemo\obj\Debug\RegularExpressionDemo.pdb

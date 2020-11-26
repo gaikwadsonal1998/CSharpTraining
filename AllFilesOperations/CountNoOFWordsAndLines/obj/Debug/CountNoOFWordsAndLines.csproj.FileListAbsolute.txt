@@ -1,0 +1,21 @@
+C:\Users\hp\source\repos\CountNoOFWordsAndLines\CountNoOFWordsAndLines\bin\Debug\CountNoOFWordsAndLines.exe.config
+C:\Users\hp\source\repos\CountNoOFWordsAndLines\CountNoOFWordsAndLines\bin\Debug\CountNoOFWordsAndLines.exe
+C:\Users\hp\source\repos\CountNoOFWordsAndLines\CountNoOFWordsAndLines\bin\Debug\CountNoOFWordsAndLines.pdb
+C:\Users\hp\source\repos\CountNoOFWordsAndLines\CountNoOFWordsAndLines\obj\Debug\CountNoOFWordsAndLines.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CountNoOFWordsAndLines\CountNoOFWordsAndLines\obj\Debug\CountNoOFWordsAndLines.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CountNoOFWordsAndLines\CountNoOFWordsAndLines\obj\Debug\CountNoOFWordsAndLines.exe
+C:\Users\hp\source\repos\CountNoOFWordsAndLines\CountNoOFWordsAndLines\obj\Debug\CountNoOFWordsAndLines.pdb
+D:\C#\Rama\CountNoOFWordsAndLines\CountNoOFWordsAndLines\obj\Debug\CountNoOFWordsAndLines.csprojAssemblyReference.cache
+D:\C#\Rama\CountNoOFWordsAndLines\CountNoOFWordsAndLines\obj\Debug\CountNoOFWordsAndLines.csproj.CoreCompileInputs.cache
+D:\C#\Rama\CountNoOFWordsAndLines\CountNoOFWordsAndLines\obj\Debug\CountNoOFWordsAndLines.exe
+D:\C#\Rama\CountNoOFWordsAndLines\CountNoOFWordsAndLines\obj\Debug\CountNoOFWordsAndLines.pdb
+D:\C#\Rama\CountNoOFWordsAndLines\CountNoOFWordsAndLines\bin\Debug\CountNoOFWordsAndLines.exe.config
+D:\C#\Rama\CountNoOFWordsAndLines\CountNoOFWordsAndLines\bin\Debug\CountNoOFWordsAndLines.exe
+D:\C#\Rama\CountNoOFWordsAndLines\CountNoOFWordsAndLines\bin\Debug\CountNoOFWordsAndLines.pdb
+D:\C#\Rama Krishna\CountNoOFWordsAndLines\CountNoOFWordsAndLines\bin\Debug\CountNoOFWordsAndLines.exe.config
+D:\C#\Rama Krishna\CountNoOFWordsAndLines\CountNoOFWordsAndLines\bin\Debug\CountNoOFWordsAndLines.exe
+D:\C#\Rama Krishna\CountNoOFWordsAndLines\CountNoOFWordsAndLines\bin\Debug\CountNoOFWordsAndLines.pdb
+D:\C#\Rama Krishna\CountNoOFWordsAndLines\CountNoOFWordsAndLines\obj\Debug\CountNoOFWordsAndLines.csprojAssemblyReference.cache
+D:\C#\Rama Krishna\CountNoOFWordsAndLines\CountNoOFWordsAndLines\obj\Debug\CountNoOFWordsAndLines.csproj.CoreCompileInputs.cache
+D:\C#\Rama Krishna\CountNoOFWordsAndLines\CountNoOFWordsAndLines\obj\Debug\CountNoOFWordsAndLines.exe
+D:\C#\Rama Krishna\CountNoOFWordsAndLines\CountNoOFWordsAndLines\obj\Debug\CountNoOFWordsAndLines.pdb

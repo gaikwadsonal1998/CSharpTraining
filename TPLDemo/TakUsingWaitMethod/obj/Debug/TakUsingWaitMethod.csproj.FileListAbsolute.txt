@@ -1,0 +1,7 @@
+D:\C#\Rama\TPLDemo\TakUsingWaitMethod\bin\Debug\TakUsingWaitMethod.exe.config
+D:\C#\Rama\TPLDemo\TakUsingWaitMethod\bin\Debug\TakUsingWaitMethod.exe
+D:\C#\Rama\TPLDemo\TakUsingWaitMethod\bin\Debug\TakUsingWaitMethod.pdb
+D:\C#\Rama\TPLDemo\TakUsingWaitMethod\obj\Debug\TakUsingWaitMethod.csprojAssemblyReference.cache
+D:\C#\Rama\TPLDemo\TakUsingWaitMethod\obj\Debug\TakUsingWaitMethod.csproj.CoreCompileInputs.cache
+D:\C#\Rama\TPLDemo\TakUsingWaitMethod\obj\Debug\TakUsingWaitMethod.exe
+D:\C#\Rama\TPLDemo\TakUsingWaitMethod\obj\Debug\TakUsingWaitMethod.pdb

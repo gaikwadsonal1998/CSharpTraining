@@ -1,0 +1,6 @@
+D:\C#\Rama\TPLDemo\ParallelInvoke\bin\Debug\ParallelInvoke.exe.config
+D:\C#\Rama\TPLDemo\ParallelInvoke\bin\Debug\ParallelInvoke.exe
+D:\C#\Rama\TPLDemo\ParallelInvoke\bin\Debug\ParallelInvoke.pdb
+D:\C#\Rama\TPLDemo\ParallelInvoke\obj\Debug\ParallelInvoke.csproj.CoreCompileInputs.cache
+D:\C#\Rama\TPLDemo\ParallelInvoke\obj\Debug\ParallelInvoke.exe
+D:\C#\Rama\TPLDemo\ParallelInvoke\obj\Debug\ParallelInvoke.pdb

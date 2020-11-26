@@ -1,0 +1,7 @@
+D:\C#\Rama\TPLDemo\TaskParallelism\bin\Debug\TaskParallelism.exe.config
+D:\C#\Rama\TPLDemo\TaskParallelism\bin\Debug\TaskParallelism.exe
+D:\C#\Rama\TPLDemo\TaskParallelism\bin\Debug\TaskParallelism.pdb
+D:\C#\Rama\TPLDemo\TaskParallelism\obj\Debug\TaskParallelism.csprojAssemblyReference.cache
+D:\C#\Rama\TPLDemo\TaskParallelism\obj\Debug\TaskParallelism.csproj.CoreCompileInputs.cache
+D:\C#\Rama\TPLDemo\TaskParallelism\obj\Debug\TaskParallelism.exe
+D:\C#\Rama\TPLDemo\TaskParallelism\obj\Debug\TaskParallelism.pdb

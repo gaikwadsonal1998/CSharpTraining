@@ -1,0 +1,7 @@
+D:\C#\Rama\FileHandling\ExerciseMoveFile\bin\Debug\ExerciseMoveFile.exe.config
+D:\C#\Rama\FileHandling\ExerciseMoveFile\bin\Debug\ExerciseMoveFile.exe
+D:\C#\Rama\FileHandling\ExerciseMoveFile\bin\Debug\ExerciseMoveFile.pdb
+D:\C#\Rama\FileHandling\ExerciseMoveFile\obj\Debug\ExerciseMoveFile.csproj.CoreCompileInputs.cache
+D:\C#\Rama\FileHandling\ExerciseMoveFile\obj\Debug\ExerciseMoveFile.exe
+D:\C#\Rama\FileHandling\ExerciseMoveFile\obj\Debug\ExerciseMoveFile.pdb
+D:\C#\Rama\FileHandling\ExerciseMoveFile\obj\Debug\ExerciseMoveFile.csprojAssemblyReference.cache

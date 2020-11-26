@@ -1,0 +1,6 @@
+D:\C#\Rama\Reflection01\AssemblyExample\bin\Debug\AssemblyExample.exe.config
+D:\C#\Rama\Reflection01\AssemblyExample\bin\Debug\AssemblyExample.exe
+D:\C#\Rama\Reflection01\AssemblyExample\bin\Debug\AssemblyExample.pdb
+D:\C#\Rama\Reflection01\AssemblyExample\obj\Debug\AssemblyExample.csproj.CoreCompileInputs.cache
+D:\C#\Rama\Reflection01\AssemblyExample\obj\Debug\AssemblyExample.exe
+D:\C#\Rama\Reflection01\AssemblyExample\obj\Debug\AssemblyExample.pdb

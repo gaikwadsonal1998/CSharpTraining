@@ -1,0 +1,7 @@
+D:\C#\Rama\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+D:\C#\Rama\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+D:\C#\Rama\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+D:\C#\Rama\FileHandling\FileHandling\obj\Debug\FileHandling1.csprojAssemblyReference.cache
+D:\C#\Rama\FileHandling\FileHandling\obj\Debug\FileHandling1.csproj.CoreCompileInputs.cache
+D:\C#\Rama\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+D:\C#\Rama\FileHandling\FileHandling\obj\Debug\FileHandling.pdb

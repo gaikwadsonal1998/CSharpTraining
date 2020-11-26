@@ -1,0 +1,7 @@
+D:\C#\SHITAL PATIL\DelegatesDemo\MultiCastDelegates\bin\Debug\MultiCastDelegates.exe.config
+D:\C#\SHITAL PATIL\DelegatesDemo\MultiCastDelegates\bin\Debug\MultiCastDelegates.exe
+D:\C#\SHITAL PATIL\DelegatesDemo\MultiCastDelegates\bin\Debug\MultiCastDelegates.pdb
+D:\C#\SHITAL PATIL\DelegatesDemo\MultiCastDelegates\obj\Debug\MultiCastDelegates.csprojAssemblyReference.cache
+D:\C#\SHITAL PATIL\DelegatesDemo\MultiCastDelegates\obj\Debug\MultiCastDelegates.csproj.CoreCompileInputs.cache
+D:\C#\SHITAL PATIL\DelegatesDemo\MultiCastDelegates\obj\Debug\MultiCastDelegates.exe
+D:\C#\SHITAL PATIL\DelegatesDemo\MultiCastDelegates\obj\Debug\MultiCastDelegates.pdb

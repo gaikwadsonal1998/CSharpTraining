@@ -1,0 +1,7 @@
+D:\C#\SHITAL PATIL\ConstructorInheritance\ConstructorInheritance\bin\Debug\ConstructorInheritance.exe.config
+D:\C#\SHITAL PATIL\ConstructorInheritance\ConstructorInheritance\bin\Debug\ConstructorInheritance.exe
+D:\C#\SHITAL PATIL\ConstructorInheritance\ConstructorInheritance\bin\Debug\ConstructorInheritance.pdb
+D:\C#\SHITAL PATIL\ConstructorInheritance\ConstructorInheritance\obj\Debug\ConstructorInheritance.csprojAssemblyReference.cache
+D:\C#\SHITAL PATIL\ConstructorInheritance\ConstructorInheritance\obj\Debug\ConstructorInheritance.csproj.CoreCompileInputs.cache
+D:\C#\SHITAL PATIL\ConstructorInheritance\ConstructorInheritance\obj\Debug\ConstructorInheritance.exe
+D:\C#\SHITAL PATIL\ConstructorInheritance\ConstructorInheritance\obj\Debug\ConstructorInheritance.pdb

@@ -1,0 +1,7 @@
+D:\C#\SHITAL PATIL\DelegatesDemo\DelegateTrial\bin\Debug\DelegateTrial.exe.config
+D:\C#\SHITAL PATIL\DelegatesDemo\DelegateTrial\bin\Debug\DelegateTrial.exe
+D:\C#\SHITAL PATIL\DelegatesDemo\DelegateTrial\bin\Debug\DelegateTrial.pdb
+D:\C#\SHITAL PATIL\DelegatesDemo\DelegateTrial\obj\Debug\DelegateTrial.csprojAssemblyReference.cache
+D:\C#\SHITAL PATIL\DelegatesDemo\DelegateTrial\obj\Debug\DelegateTrial.csproj.CoreCompileInputs.cache
+D:\C#\SHITAL PATIL\DelegatesDemo\DelegateTrial\obj\Debug\DelegateTrial.exe
+D:\C#\SHITAL PATIL\DelegatesDemo\DelegateTrial\obj\Debug\DelegateTrial.pdb
