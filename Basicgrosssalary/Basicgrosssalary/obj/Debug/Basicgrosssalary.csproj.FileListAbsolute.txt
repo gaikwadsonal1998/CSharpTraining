@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Basicgrosssalary\Basicgrosssalary\bin\Debug\Basicgrosssalary.exe.config
+C:\Users\hp\source\repos\Basicgrosssalary\Basicgrosssalary\bin\Debug\Basicgrosssalary.exe
+C:\Users\hp\source\repos\Basicgrosssalary\Basicgrosssalary\bin\Debug\Basicgrosssalary.pdb
+C:\Users\hp\source\repos\Basicgrosssalary\Basicgrosssalary\obj\Debug\Basicgrosssalary.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Basicgrosssalary\Basicgrosssalary\obj\Debug\Basicgrosssalary.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Basicgrosssalary\Basicgrosssalary\obj\Debug\Basicgrosssalary.exe
+C:\Users\hp\source\repos\Basicgrosssalary\Basicgrosssalary\obj\Debug\Basicgrosssalary.pdb

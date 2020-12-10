@@ -1,0 +1,22 @@
+﻿<Window x:Class="Addition.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Addition"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="204*"/>
+            <RowDefinition Height="215*"/>
+        </Grid.RowDefinitions>
+        <StackPanel HorizontalAlignment="Center"  Height="371" Margin="41,27,51,0" VerticalAlignment="Top" Width="700" Orientation="Vertical" Grid.RowSpan="2">
+            <Button Content="Button" Height="48" Margin="545,0,14,0" RenderTransformOrigin="1.43,4.272"/>
+            <Button Content="Browse" Height="48" Margin="541,30,20,0" RenderTransformOrigin="1.43,4.272"/>
+            <Button Content="Browse" Height="48" Margin="538,30,20,0" RenderTransformOrigin="1.43,4.272" Click="Button_Click"/>
+            <Button Content="Browse" Height="48" Margin="540,30,20,0" RenderTransformOrigin="1.43,4.272"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

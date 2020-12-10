@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\LabAssignment12\LabAssignment12-B\bin\Debug\LabAssignment12-B.exe.config
+C:\Users\hp\source\repos\LabAssignment12\LabAssignment12-B\bin\Debug\LabAssignment12-B.exe
+C:\Users\hp\source\repos\LabAssignment12\LabAssignment12-B\bin\Debug\LabAssignment12-B.pdb
+C:\Users\hp\source\repos\LabAssignment12\LabAssignment12-B\obj\Debug\LabAssignment12-B.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LabAssignment12\LabAssignment12-B\obj\Debug\LabAssignment12-B.exe
+C:\Users\hp\source\repos\LabAssignment12\LabAssignment12-B\obj\Debug\LabAssignment12-B.pdb

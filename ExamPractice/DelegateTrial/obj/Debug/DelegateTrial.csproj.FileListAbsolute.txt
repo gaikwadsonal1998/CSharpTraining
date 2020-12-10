@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ExamPractice\DelegateTrial\bin\Debug\DelegateTrial.exe.config
+C:\Users\hp\source\repos\ExamPractice\DelegateTrial\bin\Debug\DelegateTrial.exe
+C:\Users\hp\source\repos\ExamPractice\DelegateTrial\bin\Debug\DelegateTrial.pdb
+C:\Users\hp\source\repos\ExamPractice\DelegateTrial\obj\Debug\DelegateTrial.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ExamPractice\DelegateTrial\obj\Debug\DelegateTrial.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ExamPractice\DelegateTrial\obj\Debug\DelegateTrial.exe
+C:\Users\hp\source\repos\ExamPractice\DelegateTrial\obj\Debug\DelegateTrial.pdb

@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\CalculatorLibrary\Mycalculator\bin\Debug\Mycalculator.exe.config
+C:\Users\hp\source\repos\CalculatorLibrary\Mycalculator\bin\Debug\Mycalculator.exe
+C:\Users\hp\source\repos\CalculatorLibrary\Mycalculator\bin\Debug\Mycalculator.pdb
+C:\Users\hp\source\repos\CalculatorLibrary\Mycalculator\bin\Debug\CalculatorLibrary.dll
+C:\Users\hp\source\repos\CalculatorLibrary\Mycalculator\bin\Debug\CalculatorLibrary.pdb
+C:\Users\hp\source\repos\CalculatorLibrary\Mycalculator\obj\Debug\Mycalculator.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CalculatorLibrary\Mycalculator\obj\Debug\Mycalculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CalculatorLibrary\Mycalculator\obj\Debug\Mycalculator.csproj.CopyComplete
+C:\Users\hp\source\repos\CalculatorLibrary\Mycalculator\obj\Debug\Mycalculator.exe
+C:\Users\hp\source\repos\CalculatorLibrary\Mycalculator\obj\Debug\Mycalculator.pdb

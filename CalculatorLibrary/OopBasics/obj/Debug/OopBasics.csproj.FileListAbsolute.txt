@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\CalculatorLibrary\OopBasics\bin\Debug\OopBasics.exe.config
+C:\Users\hp\source\repos\CalculatorLibrary\OopBasics\bin\Debug\OopBasics.exe
+C:\Users\hp\source\repos\CalculatorLibrary\OopBasics\bin\Debug\OopBasics.pdb
+C:\Users\hp\source\repos\CalculatorLibrary\OopBasics\obj\Debug\OopBasics.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CalculatorLibrary\OopBasics\obj\Debug\OopBasics.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CalculatorLibrary\OopBasics\obj\Debug\OopBasics.exe
+C:\Users\hp\source\repos\CalculatorLibrary\OopBasics\obj\Debug\OopBasics.pdb

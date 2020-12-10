@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\SerializationExamples\SerializationExamples\bin\Debug\SerializationExamples.exe.config
+C:\Users\hp\source\repos\SerializationExamples\SerializationExamples\bin\Debug\SerializationExamples.exe
+C:\Users\hp\source\repos\SerializationExamples\SerializationExamples\bin\Debug\SerializationExamples.pdb
+C:\Users\hp\source\repos\SerializationExamples\SerializationExamples\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\SerializationExamples\SerializationExamples\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\source\repos\SerializationExamples\SerializationExamples\obj\Debug\SerializationExamples.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\SerializationExamples\SerializationExamples\obj\Debug\SerializationExamples.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SerializationExamples\SerializationExamples\obj\Debug\SerializationExamples.csproj.CopyComplete
+C:\Users\hp\source\repos\SerializationExamples\SerializationExamples\obj\Debug\SerializationExamples.exe
+C:\Users\hp\source\repos\SerializationExamples\SerializationExamples\obj\Debug\SerializationExamples.pdb

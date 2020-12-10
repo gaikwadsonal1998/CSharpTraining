@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\AdditionFotm\AdditionFotm\bin\Debug\AdditionFotm.exe.config
+C:\Users\hp\source\repos\AdditionFotm\AdditionFotm\bin\Debug\AdditionFotm.exe
+C:\Users\hp\source\repos\AdditionFotm\AdditionFotm\bin\Debug\AdditionFotm.pdb
+C:\Users\hp\source\repos\AdditionFotm\AdditionFotm\obj\Debug\AdditionFotm.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\AdditionFotm\AdditionFotm\obj\Debug\AdditionFotm.Form1.resources
+C:\Users\hp\source\repos\AdditionFotm\AdditionFotm\obj\Debug\AdditionFotm.Properties.Resources.resources
+C:\Users\hp\source\repos\AdditionFotm\AdditionFotm\obj\Debug\AdditionFotm.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\AdditionFotm\AdditionFotm\obj\Debug\AdditionFotm.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AdditionFotm\AdditionFotm\obj\Debug\AdditionFotm.exe
+C:\Users\hp\source\repos\AdditionFotm\AdditionFotm\obj\Debug\AdditionFotm.pdb
+C:\Users\hp\source\repos\AdditionFotm\AdditionFotm\obj\Debug\AdditionFotm.Form2.resources

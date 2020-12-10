@@ -1,0 +1,10 @@
+D:\LabAssignments\LabAssignment1\ConsoleApp1B\bin\Debug\ConsoleApp1B.exe.config
+D:\LabAssignments\LabAssignment1\ConsoleApp1B\bin\Debug\ConsoleApp1B.exe
+D:\LabAssignments\LabAssignment1\ConsoleApp1B\bin\Debug\ConsoleApp1B.pdb
+D:\LabAssignments\LabAssignment1\ConsoleApp1B\bin\Debug\Libraryfor1-B.dll
+D:\LabAssignments\LabAssignment1\ConsoleApp1B\bin\Debug\Libraryfor1-B.pdb
+D:\LabAssignments\LabAssignment1\ConsoleApp1B\obj\Debug\ConsoleApp1B.csprojAssemblyReference.cache
+D:\LabAssignments\LabAssignment1\ConsoleApp1B\obj\Debug\ConsoleApp1B.csproj.CoreCompileInputs.cache
+D:\LabAssignments\LabAssignment1\ConsoleApp1B\obj\Debug\ConsoleApp1B.csproj.CopyComplete
+D:\LabAssignments\LabAssignment1\ConsoleApp1B\obj\Debug\ConsoleApp1B.exe
+D:\LabAssignments\LabAssignment1\ConsoleApp1B\obj\Debug\ConsoleApp1B.pdb

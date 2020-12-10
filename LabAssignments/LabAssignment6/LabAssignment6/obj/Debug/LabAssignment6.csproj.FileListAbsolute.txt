@@ -1,0 +1,7 @@
+D:\C#\SHITAL PATIL\LabAssignment6\LabAssignment6\bin\Debug\LabAssignment6.exe.config
+D:\C#\SHITAL PATIL\LabAssignment6\LabAssignment6\bin\Debug\LabAssignment6.exe
+D:\C#\SHITAL PATIL\LabAssignment6\LabAssignment6\bin\Debug\LabAssignment6.pdb
+D:\C#\SHITAL PATIL\LabAssignment6\LabAssignment6\obj\Debug\LabAssignment6.csprojAssemblyReference.cache
+D:\C#\SHITAL PATIL\LabAssignment6\LabAssignment6\obj\Debug\LabAssignment6.csproj.CoreCompileInputs.cache
+D:\C#\SHITAL PATIL\LabAssignment6\LabAssignment6\obj\Debug\LabAssignment6.exe
+D:\C#\SHITAL PATIL\LabAssignment6\LabAssignment6\obj\Debug\LabAssignment6.pdb

@@ -1,0 +1,6 @@
+D:\LabAssignments\LabAssignment1\LabAssignment1\bin\Debug\LabAssignment1.dll
+D:\LabAssignments\LabAssignment1\LabAssignment1\bin\Debug\LabAssignment1.pdb
+D:\LabAssignments\LabAssignment1\LabAssignment1\obj\Debug\LabAssignment1.csprojAssemblyReference.cache
+D:\LabAssignments\LabAssignment1\LabAssignment1\obj\Debug\LabAssignment1.csproj.CoreCompileInputs.cache
+D:\LabAssignments\LabAssignment1\LabAssignment1\obj\Debug\LabAssignment1.dll
+D:\LabAssignments\LabAssignment1\LabAssignment1\obj\Debug\LabAssignment1.pdb

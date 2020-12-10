@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\LabAssignment7\ClassLibrary7_3\bin\Debug\ClassLibrary7_3.dll
+C:\Users\hp\source\repos\LabAssignment7\ClassLibrary7_3\bin\Debug\ClassLibrary7_3.pdb
+C:\Users\hp\source\repos\LabAssignment7\ClassLibrary7_3\obj\Debug\ClassLibrary7_3.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\LabAssignment7\ClassLibrary7_3\obj\Debug\ClassLibrary7_3.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LabAssignment7\ClassLibrary7_3\obj\Debug\ClassLibrary7_3.dll
+C:\Users\hp\source\repos\LabAssignment7\ClassLibrary7_3\obj\Debug\ClassLibrary7_3.pdb

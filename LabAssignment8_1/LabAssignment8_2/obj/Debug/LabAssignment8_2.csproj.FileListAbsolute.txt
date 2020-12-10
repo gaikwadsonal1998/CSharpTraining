@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\LabAssignment8_1\LabAssignment8_2\bin\Debug\LabAssignment8_2.exe.config
+C:\Users\hp\source\repos\LabAssignment8_1\LabAssignment8_2\bin\Debug\LabAssignment8_2.exe
+C:\Users\hp\source\repos\LabAssignment8_1\LabAssignment8_2\bin\Debug\LabAssignment8_2.pdb
+C:\Users\hp\source\repos\LabAssignment8_1\LabAssignment8_2\obj\Debug\LabAssignment8_2.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\LabAssignment8_1\LabAssignment8_2\obj\Debug\LabAssignment8_2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LabAssignment8_1\LabAssignment8_2\obj\Debug\LabAssignment8_2.exe
+C:\Users\hp\source\repos\LabAssignment8_1\LabAssignment8_2\obj\Debug\LabAssignment8_2.pdb

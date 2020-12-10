@@ -1,0 +1,6 @@
+D:\LabAssignments\LabAssignment1\Libraryfor1-B\bin\Debug\Libraryfor1-B.dll
+D:\LabAssignments\LabAssignment1\Libraryfor1-B\bin\Debug\Libraryfor1-B.pdb
+D:\LabAssignments\LabAssignment1\Libraryfor1-B\obj\Debug\Libraryfor1-B.csprojAssemblyReference.cache
+D:\LabAssignments\LabAssignment1\Libraryfor1-B\obj\Debug\Libraryfor1-B.csproj.CoreCompileInputs.cache
+D:\LabAssignments\LabAssignment1\Libraryfor1-B\obj\Debug\Libraryfor1-B.dll
+D:\LabAssignments\LabAssignment1\Libraryfor1-B\obj\Debug\Libraryfor1-B.pdb

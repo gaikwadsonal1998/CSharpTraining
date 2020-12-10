@@ -1,0 +1,6 @@
+D:\LabAssignments\LabAssignment-2\LabAssignment2-B\bin\Debug\LabAssignment2-B.exe.config
+D:\LabAssignments\LabAssignment-2\LabAssignment2-B\bin\Debug\LabAssignment2-B.exe
+D:\LabAssignments\LabAssignment-2\LabAssignment2-B\bin\Debug\LabAssignment2-B.pdb
+D:\LabAssignments\LabAssignment-2\LabAssignment2-B\obj\Debug\LabAssignment2-B.csproj.CoreCompileInputs.cache
+D:\LabAssignments\LabAssignment-2\LabAssignment2-B\obj\Debug\LabAssignment2-B.exe
+D:\LabAssignments\LabAssignment-2\LabAssignment2-B\obj\Debug\LabAssignment2-B.pdb

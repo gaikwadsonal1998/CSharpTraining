@@ -1,0 +1,7 @@
+D:\LabAssignments\LabAssignment-2\LabAssignment2-E\bin\Debug\LabAssignment2-E.exe.config
+D:\LabAssignments\LabAssignment-2\LabAssignment2-E\bin\Debug\LabAssignment2-E.exe
+D:\LabAssignments\LabAssignment-2\LabAssignment2-E\bin\Debug\LabAssignment2-E.pdb
+D:\LabAssignments\LabAssignment-2\LabAssignment2-E\obj\Debug\LabAssignment2-E.csprojAssemblyReference.cache
+D:\LabAssignments\LabAssignment-2\LabAssignment2-E\obj\Debug\LabAssignment2-E.csproj.CoreCompileInputs.cache
+D:\LabAssignments\LabAssignment-2\LabAssignment2-E\obj\Debug\LabAssignment2-E.exe
+D:\LabAssignments\LabAssignment-2\LabAssignment2-E\obj\Debug\LabAssignment2-E.pdb

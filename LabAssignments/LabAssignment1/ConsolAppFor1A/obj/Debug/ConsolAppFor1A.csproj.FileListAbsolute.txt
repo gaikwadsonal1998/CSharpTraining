@@ -1,0 +1,10 @@
+D:\LabAssignments\LabAssignment1\ConsolAppFor1A\bin\Debug\ConsolAppFor1A.exe.config
+D:\LabAssignments\LabAssignment1\ConsolAppFor1A\bin\Debug\ConsolAppFor1A.exe
+D:\LabAssignments\LabAssignment1\ConsolAppFor1A\bin\Debug\ConsolAppFor1A.pdb
+D:\LabAssignments\LabAssignment1\ConsolAppFor1A\bin\Debug\LabAssignment1.dll
+D:\LabAssignments\LabAssignment1\ConsolAppFor1A\bin\Debug\LabAssignment1.pdb
+D:\LabAssignments\LabAssignment1\ConsolAppFor1A\obj\Debug\ConsolAppFor1A.csprojAssemblyReference.cache
+D:\LabAssignments\LabAssignment1\ConsolAppFor1A\obj\Debug\ConsolAppFor1A.csproj.CoreCompileInputs.cache
+D:\LabAssignments\LabAssignment1\ConsolAppFor1A\obj\Debug\ConsolAppFor1A.csproj.CopyComplete
+D:\LabAssignments\LabAssignment1\ConsolAppFor1A\obj\Debug\ConsolAppFor1A.exe
+D:\LabAssignments\LabAssignment1\ConsolAppFor1A\obj\Debug\ConsolAppFor1A.pdb

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\BankMiniCaseStudyOOP\BankMiniCaseStudyOOP\bin\Debug\BankMiniCaseStudyOOP.exe.config
+C:\Users\hp\source\repos\BankMiniCaseStudyOOP\BankMiniCaseStudyOOP\bin\Debug\BankMiniCaseStudyOOP.exe
+C:\Users\hp\source\repos\BankMiniCaseStudyOOP\BankMiniCaseStudyOOP\bin\Debug\BankMiniCaseStudyOOP.pdb
+C:\Users\hp\source\repos\BankMiniCaseStudyOOP\BankMiniCaseStudyOOP\obj\Debug\BankMiniCaseStudyOOP.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\BankMiniCaseStudyOOP\BankMiniCaseStudyOOP\obj\Debug\BankMiniCaseStudyOOP.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BankMiniCaseStudyOOP\BankMiniCaseStudyOOP\obj\Debug\BankMiniCaseStudyOOP.exe
+C:\Users\hp\source\repos\BankMiniCaseStudyOOP\BankMiniCaseStudyOOP\obj\Debug\BankMiniCaseStudyOOP.pdb

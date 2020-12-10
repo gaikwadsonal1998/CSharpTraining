@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\LabAssignment_10\Supporting\bin\Debug\Supporting.exe.config
+C:\Users\hp\source\repos\LabAssignment_10\Supporting\bin\Debug\Supporting.exe
+C:\Users\hp\source\repos\LabAssignment_10\Supporting\bin\Debug\Supporting.pdb
+C:\Users\hp\source\repos\LabAssignment_10\Supporting\obj\Debug\Supporting.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\LabAssignment_10\Supporting\obj\Debug\Supporting.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LabAssignment_10\Supporting\obj\Debug\Supporting.exe
+C:\Users\hp\source\repos\LabAssignment_10\Supporting\obj\Debug\Supporting.pdb

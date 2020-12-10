@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\LabAssignment4\LabAssignment4\bin\Debug\LabAssignment4.exe.config
+C:\Users\hp\source\repos\LabAssignment4\LabAssignment4\bin\Debug\LabAssignment4.exe
+C:\Users\hp\source\repos\LabAssignment4\LabAssignment4\bin\Debug\LabAssignment4.pdb
+C:\Users\hp\source\repos\LabAssignment4\LabAssignment4\bin\Debug\LabAssignment1.dll
+C:\Users\hp\source\repos\LabAssignment4\LabAssignment4\bin\Debug\LabAssignment1.pdb
+C:\Users\hp\source\repos\LabAssignment4\LabAssignment4\obj\Debug\LabAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LabAssignment4\LabAssignment4\obj\Debug\LabAssignment4.csproj.CopyComplete
+C:\Users\hp\source\repos\LabAssignment4\LabAssignment4\obj\Debug\LabAssignment4.exe
+C:\Users\hp\source\repos\LabAssignment4\LabAssignment4\obj\Debug\LabAssignment4.pdb
+C:\Users\hp\source\repos\LabAssignment4\LabAssignment4\obj\Debug\LabAssignment4.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\LabAssignment12\LabAssignment12-A\bin\Debug\LabAssignment12-A.exe.config
+C:\Users\hp\source\repos\LabAssignment12\LabAssignment12-A\bin\Debug\LabAssignment12-A.exe
+C:\Users\hp\source\repos\LabAssignment12\LabAssignment12-A\bin\Debug\LabAssignment12-A.pdb
+C:\Users\hp\source\repos\LabAssignment12\LabAssignment12-A\obj\Debug\LabAssignment12-A.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\LabAssignment12\LabAssignment12-A\obj\Debug\LabAssignment12-A.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LabAssignment12\LabAssignment12-A\obj\Debug\LabAssignment12-A.exe
+C:\Users\hp\source\repos\LabAssignment12\LabAssignment12-A\obj\Debug\LabAssignment12-A.pdb

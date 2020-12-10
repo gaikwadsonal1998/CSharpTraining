@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ExamPractice\ExamPractice\bin\Debug\ExamPractice.exe.config
+C:\Users\hp\source\repos\ExamPractice\ExamPractice\bin\Debug\ExamPractice.exe
+C:\Users\hp\source\repos\ExamPractice\ExamPractice\bin\Debug\ExamPractice.pdb
+C:\Users\hp\source\repos\ExamPractice\ExamPractice\obj\Debug\ExamPractice.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ExamPractice\ExamPractice\obj\Debug\ExamPractice.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ExamPractice\ExamPractice\obj\Debug\ExamPractice.exe
+C:\Users\hp\source\repos\ExamPractice\ExamPractice\obj\Debug\ExamPractice.pdb

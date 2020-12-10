@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\LabAssignment3\LabAssignment3-A\bin\Debug\LabAssignment3-A.dll
+C:\Users\hp\source\repos\LabAssignment3\LabAssignment3-A\bin\Debug\LabAssignment3-A.pdb
+C:\Users\hp\source\repos\LabAssignment3\LabAssignment3-A\obj\Debug\LabAssignment3-A.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\LabAssignment3\LabAssignment3-A\obj\Debug\LabAssignment3-A.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LabAssignment3\LabAssignment3-A\obj\Debug\LabAssignment3-A.dll
+C:\Users\hp\source\repos\LabAssignment3\LabAssignment3-A\obj\Debug\LabAssignment3-A.pdb

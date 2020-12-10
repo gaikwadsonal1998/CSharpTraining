@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\UnitTestingDemo\UnitTestingDemo\bin\Debug\UnitTestingDemo.exe.config
+C:\Users\hp\source\repos\UnitTestingDemo\UnitTestingDemo\bin\Debug\UnitTestingDemo.exe
+C:\Users\hp\source\repos\UnitTestingDemo\UnitTestingDemo\bin\Debug\UnitTestingDemo.pdb
+C:\Users\hp\source\repos\UnitTestingDemo\UnitTestingDemo\obj\Debug\UnitTestingDemo.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\UnitTestingDemo\UnitTestingDemo\obj\Debug\UnitTestingDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UnitTestingDemo\UnitTestingDemo\obj\Debug\UnitTestingDemo.exe
+C:\Users\hp\source\repos\UnitTestingDemo\UnitTestingDemo\obj\Debug\UnitTestingDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ExamPractice\ReflectionTrial\bin\Debug\ReflectionTrial.exe.config
+C:\Users\hp\source\repos\ExamPractice\ReflectionTrial\bin\Debug\ReflectionTrial.exe
+C:\Users\hp\source\repos\ExamPractice\ReflectionTrial\bin\Debug\ReflectionTrial.pdb
+C:\Users\hp\source\repos\ExamPractice\ReflectionTrial\obj\Debug\ReflectionTrial.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ExamPractice\ReflectionTrial\obj\Debug\ReflectionTrial.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ExamPractice\ReflectionTrial\obj\Debug\ReflectionTrial.exe
+C:\Users\hp\source\repos\ExamPractice\ReflectionTrial\obj\Debug\ReflectionTrial.pdb

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ExamPractice\reversewords\bin\Debug\reversewords.exe.config
+C:\Users\hp\source\repos\ExamPractice\reversewords\bin\Debug\reversewords.exe
+C:\Users\hp\source\repos\ExamPractice\reversewords\bin\Debug\reversewords.pdb
+C:\Users\hp\source\repos\ExamPractice\reversewords\obj\Debug\reversewords.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ExamPractice\reversewords\obj\Debug\reversewords.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ExamPractice\reversewords\obj\Debug\reversewords.exe
+C:\Users\hp\source\repos\ExamPractice\reversewords\obj\Debug\reversewords.pdb

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ExamPractice\ExceptionHandling02\bin\Debug\ExceptionHandling02.exe.config
+C:\Users\hp\source\repos\ExamPractice\ExceptionHandling02\bin\Debug\ExceptionHandling02.exe
+C:\Users\hp\source\repos\ExamPractice\ExceptionHandling02\bin\Debug\ExceptionHandling02.pdb
+C:\Users\hp\source\repos\ExamPractice\ExceptionHandling02\obj\Debug\ExceptionHandling02.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ExamPractice\ExceptionHandling02\obj\Debug\ExceptionHandling02.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ExamPractice\ExceptionHandling02\obj\Debug\ExceptionHandling02.exe
+C:\Users\hp\source\repos\ExamPractice\ExceptionHandling02\obj\Debug\ExceptionHandling02.pdb

@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\CalculatorLibrary\Employee\bin\Debug\Employee.exe.config
+C:\Users\hp\source\repos\CalculatorLibrary\Employee\bin\Debug\Employee.exe
+C:\Users\hp\source\repos\CalculatorLibrary\Employee\bin\Debug\Employee.pdb
+C:\Users\hp\source\repos\CalculatorLibrary\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CalculatorLibrary\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CalculatorLibrary\Employee\obj\Debug\Employee.exe
+C:\Users\hp\source\repos\CalculatorLibrary\Employee\obj\Debug\Employee.pdb

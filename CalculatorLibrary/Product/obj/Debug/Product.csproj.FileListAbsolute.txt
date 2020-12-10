@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\CalculatorLibrary\Product\bin\Debug\Product.exe.config
+C:\Users\hp\source\repos\CalculatorLibrary\Product\bin\Debug\Product.exe
+C:\Users\hp\source\repos\CalculatorLibrary\Product\bin\Debug\Product.pdb
+C:\Users\hp\source\repos\CalculatorLibrary\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CalculatorLibrary\Product\obj\Debug\Product.exe
+C:\Users\hp\source\repos\CalculatorLibrary\Product\obj\Debug\Product.pdb

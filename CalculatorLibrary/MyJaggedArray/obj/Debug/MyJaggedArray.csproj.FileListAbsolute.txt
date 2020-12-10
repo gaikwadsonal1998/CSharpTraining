@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\CalculatorLibrary\MyJaggedArray\obj\Debug\MyJaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CalculatorLibrary\MyJaggedArray\bin\Debug\MyJaggedArray.exe.config
+C:\Users\hp\source\repos\CalculatorLibrary\MyJaggedArray\bin\Debug\MyJaggedArray.exe
+C:\Users\hp\source\repos\CalculatorLibrary\MyJaggedArray\bin\Debug\MyJaggedArray.pdb
+C:\Users\hp\source\repos\CalculatorLibrary\MyJaggedArray\obj\Debug\MyJaggedArray.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CalculatorLibrary\MyJaggedArray\obj\Debug\MyJaggedArray.exe
+C:\Users\hp\source\repos\CalculatorLibrary\MyJaggedArray\obj\Debug\MyJaggedArray.pdb

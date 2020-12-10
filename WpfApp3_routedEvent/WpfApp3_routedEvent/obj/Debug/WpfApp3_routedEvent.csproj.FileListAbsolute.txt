@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\bin\Debug\WpfApp3_routedEvent.exe.config
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\bin\Debug\WpfApp3_routedEvent.exe
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\bin\Debug\WpfApp3_routedEvent.pdb
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\obj\Debug\WpfApp3_routedEvent.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\obj\Debug\MainWindow.g.cs
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\obj\Debug\App.g.cs
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\obj\Debug\WpfApp3_routedEvent_MarkupCompile.cache
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\obj\Debug\WpfApp3_routedEvent_MarkupCompile.lref
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\obj\Debug\MainWindow.baml
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\obj\Debug\WpfApp3_routedEvent.g.resources
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\obj\Debug\WpfApp3_routedEvent.Properties.Resources.resources
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\obj\Debug\WpfApp3_routedEvent.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\obj\Debug\WpfApp3_routedEvent.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\obj\Debug\WpfApp3_routedEvent.exe
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\obj\Debug\WpfApp3_routedEvent.pdb
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\obj\Debug\Window1.baml
+C:\Users\hp\source\repos\WpfApp3_routedEvent\WpfApp3_routedEvent\obj\Debug\Window1.g.cs
